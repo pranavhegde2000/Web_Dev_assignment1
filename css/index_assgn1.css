@@ -12,10 +12,10 @@ th {
 
 div {
   height: 300px;
-  width: 100%;
+  width: 50%;
 }
 .table1 {
-  width: 100%;
+  width: 50%;
 }
 .btn-group button {
   background-color: white;
@@ -103,6 +103,15 @@ a.btncls:active {
   background-color: red;
 }
 
+.imgclass {
+  height: 40px;
+  width: 100%;
+}
+
+.row4 {
+  background-color: antiquewhite;
+  height: 20px;
+}
 .ruler {
   position: relative;
   width: 100%;
